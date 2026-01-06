@@ -10,7 +10,7 @@ The website fetches random computer-related trivia from a public API and display
 ### 🎨 Features
 
 - Random trivia generation on each request
-- Clean, responsive layout for desktop and mobile users
+- Responsive layout for desktop and mobile users
 - Simple, user-friendly interface for easy interaction
 - API integration to fetch live trivia content dynamically
 
